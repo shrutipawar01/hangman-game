@@ -13,7 +13,7 @@ A simple implementation of the classic Hangman game in [Programming Language]. T
 - [Any libraries or frameworks used]
 
 # How to Run
-1. Clone the repository using git clone https://github.com/your-username/hangman-game.git
+1. Clone the repository using git clone https://github.com/shrutipawar01/Hangman-game.git
 2. Navigate to the project directory using cd hangman-game
 3. Run the game using [command to run the game]
 
